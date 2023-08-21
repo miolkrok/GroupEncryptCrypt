@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645076061163",
+    "project_id": "crypt-and-encrypt",
+    "storage_bucket": "crypt-and-encrypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645076061163:android:5ec4dad6fbb6d6f22967ae",
+        "android_client_info": {
+          "package_name": "com.example.groupencryptcrypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645076061163-06hc3lp97p6e89kudff43q3mlt3nj7j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8M4RF9c2_1wcgwI4Jbz6PnY5dHXLIVdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645076061163-06hc3lp97p6e89kudff43q3mlt3nj7j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
